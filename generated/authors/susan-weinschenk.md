@@ -1,0 +1,28 @@
+---
+name: Susan Weinschenk
+primary_category: UX/UI Design
+post_count: 10
+---
+
+# Susan Weinschenk
+
+## Author Info
+- Primary Category: UX/UI Design
+- Total Posts: 10
+- First Seen: 2025-10-15 01:38:09+00:00
+- Last Seen: 2025-12-16 15:55:39+00:00
+
+## Sources
+- [[The Team W]]
+
+## Posts
+- [[100 More Things #200: EVEN SOPHISTICATED TECH USERS WANT SIMPLICITY]]
+- [[100 More Things #199: VR CAUSES SENSORY CONFLICTS]]
+- [[100 More Things #198: PEOPLE PROCESS SENSORY DATA UNCONSCIOUSLY]]
+- [[100 More Things #197: PEOPLE NEED FEWER CHOICES]]
+- [[100 More Things #196: GAMES CAN IMPROVE PERCEPTUAL LEARNING]]
+- [[100 More Things #195: PEOPLE LOOK BELOW “THE FOLD”]]
+- [[100 More Things #194: PEOPLE WANT TO SKIM AND SCAN VIDEOS]]
+- [[100 More Things #193: WHEN TODDLERS LAUGH, THEY LEARN MORE]]
+- [[100 More Things #192: FOR MANY CHILDREN TECH USE STARTS BEFORE THE AGE OF 2]]
+- [[100 More Things #191: AS PEOPLE AGE, THEY BECOME LESS CONFIDENT ABOUT THEIR OWN MEMORIES]]

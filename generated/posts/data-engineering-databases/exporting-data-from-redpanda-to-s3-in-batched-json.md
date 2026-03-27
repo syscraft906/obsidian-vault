@@ -1,0 +1,23 @@
+---
+uid: 918
+source: "[[Redpanda Blog]]"
+author: "[[Unknown]]"
+date: 2025-08-07
+tags: []
+category: Data Engineering & Databases
+url: https://www.redpanda.com/blog/exporting-data-from-redpanda-to-s3-in-batched-json-arrays
+status: "\U0001F331 Seedling"
+---
+
+# Exporting data from Redpanda to S3 in batched JSON
+
+## AI Summary
+_No summary available yet._
+
+## Topics
+_No topics tagged yet._
+
+## Source
+- Blog: [[Redpanda Blog]]
+- Author: [[Unknown]]
+- Original: [Read Full Post](https://www.redpanda.com/blog/exporting-data-from-redpanda-to-s3-in-batched-json-arrays)

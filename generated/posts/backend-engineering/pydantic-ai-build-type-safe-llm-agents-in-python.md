@@ -1,0 +1,23 @@
+---
+uid: 680
+source: "[[Real Python]]"
+author: "[[Unknown]]"
+date: 2026-03-11
+tags: []
+category: Backend Engineering
+url: https://realpython.com/pydantic-ai/
+status: "\U0001F331 Seedling"
+---
+
+# Pydantic AI: Build Type-Safe LLM Agents in Python
+
+## AI Summary
+_No summary available yet._
+
+## Topics
+_No topics tagged yet._
+
+## Source
+- Blog: [[Real Python]]
+- Author: [[Unknown]]
+- Original: [Read Full Post](https://realpython.com/pydantic-ai/)

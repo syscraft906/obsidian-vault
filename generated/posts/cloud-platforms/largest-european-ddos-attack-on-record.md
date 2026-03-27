@@ -1,0 +1,23 @@
+---
+uid: 3950
+source: "[[Linode Blog]]"
+author: "[[Craig Sparling & Max Gebhardt]]"
+date: 2022-07-27
+tags: []
+category: Cloud Platforms
+url: https://www.akamai.com/blog/security/largest-european-ddos-attack-ever
+status: "\U0001F331 Seedling"
+---
+
+# Largest European DDoS Attack on Record
+
+## AI Summary
+_No summary available yet._
+
+## Topics
+_No topics tagged yet._
+
+## Source
+- Blog: [[Linode Blog]]
+- Author: [[Craig Sparling & Max Gebhardt]]
+- Original: [Read Full Post](https://www.akamai.com/blog/security/largest-european-ddos-attack-ever)
