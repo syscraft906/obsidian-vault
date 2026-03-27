@@ -16,5 +16,5 @@ post_count: 2
 - [[AWS Blog]]
 
 ## Posts
-- [[Streamline Amazon RDS management with consolidation techniques – Part 1]]
 - [[Streamline Amazon RDS management with consolidation techniques – Part 2]]
+- [[Streamline Amazon RDS management with consolidation techniques – Part 1]]

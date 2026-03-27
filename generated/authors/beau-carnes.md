@@ -16,5 +16,5 @@ post_count: 2
 - [[freeCodeCamp]]
 
 ## Posts
-- [[Claude Code Essentials]]
 - [[AI Literacy for Everybody]]
+- [[Claude Code Essentials]]

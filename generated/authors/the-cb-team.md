@@ -16,7 +16,7 @@ post_count: 4
 - [[Creative Boom]]
 
 ## Posts
+- [[Sunday's 'Playful Precision': a robotics brand designed to give you your time back]]
 - [[Cushelle made the world's first magazine out of toilet paper, and yes, you can flush it]]
 - [[How Taxi Studio gave Warburtons a birthday makeover worthy of 150 years]]
-- [[Sunday's 'Playful Precision': a robotics brand designed to give you your time back]]
 - [[Fred Perry new flagship store in Soho hums with music and attitude]]

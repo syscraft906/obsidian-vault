@@ -1,11 +1,11 @@
 ---
-uid: 4361
+uid: 4360
 source: "[[Linode Blog]]"
 author: "[[Lorenz Jakober]]"
 date: 2020-06-22
 tags: []
 category: Cloud Platforms
-url: https://www.akamai.com/blog/security/akamai-mitigates-sophisticated-1-44-tbps-and-385-mpps-ddos-attack
+url: https://www.akamai.com/blog/akamai-mitigates-sophisticated-1-44-tbps-and-385-mpps-ddos-attac
 status: "\U0001F331 Seedling"
 ---
 
@@ -20,4 +20,4 @@ _No topics tagged yet._
 ## Source
 - Blog: [[Linode Blog]]
 - Author: [[Lorenz Jakober]]
-- Original: [Read Full Post](https://www.akamai.com/blog/security/akamai-mitigates-sophisticated-1-44-tbps-and-385-mpps-ddos-attack)
+- Original: [Read Full Post](https://www.akamai.com/blog/akamai-mitigates-sophisticated-1-44-tbps-and-385-mpps-ddos-attac)

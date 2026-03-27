@@ -17,12 +17,12 @@ post_count: 10
 
 ## Posts
 - [[Paraboot x Universal Works launch a summer shoe built on friendship, craft and beautiful imperfection]]
-- [[How Letters Come Alive: Atelier AAAAA's identity for Mixt]]
-- [[When Defeat Looked This Good: The Street Fighter sculptures that hit different]]
 - [[How Sip Studio built La Borosa, a non-alcoholic spirit that doesn't ask for your forgiveness]]
+- [[When Defeat Looked This Good: The Street Fighter sculptures that hit different]]
+- [[How Letters Come Alive: Atelier AAAAA's identity for Mixt]]
 - [[KFC has made a puffer jacket filled with real pickles, and yes, it has a straw]]
 - [[When branding becomes activism: how OMSE helped B416 fight to protect a generation]]
 - [[Northern Design Festival is back – and this time, it's bringing its own typeface]]
-- [[Why learning to say 'I did that' is annoyingly one of the most radical things a woman can do]]
 - [[The paper that holds its colour: how Coloursource became a designer staple]]
+- [[Why learning to say 'I did that' is annoyingly one of the most radical things a woman can do]]
 - [[More Fire. More Fox. Meet Kit: Firefox's most significant brand evolution in years]]

@@ -17,5 +17,5 @@ post_count: 3
 
 ## Posts
 - [[AWS completes the 2026 annual Dubai Electronic Security Centre (DESC) certification audit]]
-- [[2025 FINMA ISAE 3000 Type II attestation report available with 183 services in scope]]
 - [[2025 PiTuKri ISAE 3000 Type II attestation report available with 183 services in scope]]
+- [[2025 FINMA ISAE 3000 Type II attestation report available with 183 services in scope]]

@@ -16,5 +16,5 @@ post_count: 2
 - [[Linode Blog]]
 
 ## Posts
-- [[Computing at the Edge]]
 - [[Edgeworkers Use Story: Creating High-Performing, Individualized Campaign Responses in Online Retail]]
+- [[Computing at the Edge]]

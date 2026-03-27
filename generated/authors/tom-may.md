@@ -18,11 +18,11 @@ post_count: 11
 ## Posts
 - [[Booms & Shakes: March's fresh moves, new launches and a 26-year goodbye]]
 - [[The death of Sora, and why you shouldn't build your studio on borrowed sand]]
+- [[The best new fonts for March 2026]]
 - [[Turn your passion into a paycheck: how DeviantArt can help you make money from art]]
 - [[Is it ethical to present concept work as if it's real?]]
-- [[The best new fonts for March 2026]]
-- [[How the best whisky label of the year was designed on foot]]
 - [[Creative agencies are quietly moving everything into Air — here's why you should too]]
+- [[How the best whisky label of the year was designed on foot]]
 - [[8 eye-catching typefaces that will elevate your editorial designs]]
 - [[It gets easier: creatives share the lessons that changed everything]]
 - [[Surviving redundancy: tips on how to cope, and why it can be a blessing in disguise]]

@@ -16,7 +16,7 @@ post_count: 4
 - [[CreativeBloq]]
 
 ## Posts
-- [[xTool just made a mini merchandise factory for your home]]
 - [[I’ve found 15 deals for content creators in the Amazon Spring sale]]
-- [[Get spring crafting for less with up to 58% off supplies at Amazon]]
+- [[xTool just made a mini merchandise factory for your home]]
 - [[Forget record players, desktop retro CD players are IN (and 25% off)]]
+- [[Get spring crafting for less with up to 58% off supplies at Amazon]]

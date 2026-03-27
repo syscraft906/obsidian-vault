@@ -17,5 +17,5 @@ post_count: 3
 
 ## Posts
 - [[Platform Update: Akamai Boosts Edge Application Power, Expanding Possibilities for Developers]]
-- [[What's New in Edge Delivery]]
 - [[Preparing the Edge for a Big Year in Live Streaming]]
+- [[What's New in Edge Delivery]]

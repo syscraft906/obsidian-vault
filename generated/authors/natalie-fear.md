@@ -16,8 +16,8 @@ post_count: 5
 - [[CreativeBloq]]
 
 ## Posts
-- [[The new Harry Potter TV series is bordering on the uncanny]]
 - [[Get 46% off the headphones that saved me from the horrors of the morning commute]]
-- [[Rocket League’s ‘new’ logo is one big game of spot the difference]]
-- [[Primark’s luxury ad parody isn’t the flex it thinks it is]]
+- [[The new Harry Potter TV series is bordering on the uncanny]]
 - [[Step into spring with up to 50% off colourful kitchen essentials from Stanley to KitchenAid]]
+- [[Primark’s luxury ad parody isn’t the flex it thinks it is]]
+- [[Rocket League’s ‘new’ logo is one big game of spot the difference]]

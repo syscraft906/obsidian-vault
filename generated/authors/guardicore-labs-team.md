@@ -21,6 +21,6 @@ post_count: 8
 - [[Mitigating Log4j Abuse Using Akamai Guardicore Segmentation]]
 - [[4 Helpful Features for Centra Users - Policy Monitoring and More]]
 - [[What’s new in Guardicore Centra R26]]
-- [[5 Surprising Cybersecurity Features of Guardicore Centra]]
 - [[Guardicore Insight: Adding Best-in-Class Osquery Visibility to Secure Your Workloads]]
+- [[5 Surprising Cybersecurity Features of Guardicore Centra]]
 - [[Guardicore at RSA: AI-Powered Segmentation, Cloud Native Security]]

@@ -18,8 +18,8 @@ post_count: 13
 ## Posts
 - [[Akamai Named a Leader in The Forrester Wave™: Microsegmentation Solutions, Q3 2024]]
 - [[How to Dramatically Simplify PCI DSS Compliance]]
-- [[Address the Challenges of Compliance and Cybersecurity with Zero Trust]]
 - [[The Benefits of Microsegmentation for Compliance]]
+- [[Address the Challenges of Compliance and Cybersecurity with Zero Trust]]
 - [[Is Network Security Still a Thing in the Age of Public Cloud?]]
 - [[Our Top Takeaways from 2023 Gartner® Market Guide for Microsegmentation]]
 - [[Introducing Akamai Hunt to Stop the Most Evasive Threats and Risks]]

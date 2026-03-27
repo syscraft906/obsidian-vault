@@ -19,6 +19,6 @@ post_count: 6
 - [[Running CloudTest on Akamai Cloud Computing]]
 - [[Integrating mPulse’s Beacon API with EdgeWorkers to Visualize All Client Requests]]
 - [[Get EdgeWorkers Error Reports with mPulse]]
-- [[Visualize and Analyze Bots With Real User Monitoring]]
 - [[Visualize and Analyze Bots with Real User Monitoring]]
+- [[Visualize and Analyze Bots With Real User Monitoring]]
 - [[Visualize Visitor Prioritization in Real Time with mPulse]]

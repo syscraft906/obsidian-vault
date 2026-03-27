@@ -17,7 +17,7 @@ post_count: 5
 
 ## Posts
 - [[Akamai Protects Against the Atlassian Confluence 0-Day (CVE-2022-26134)]]
-- [[Mitigating Spring Core “Spring4Shell” Zero-Day]]
 - [[Spring Cloud Function SpEL Injection (CVE-2022-22963) Exploited in the Wild]]
+- [[Mitigating Spring Core “Spring4Shell” Zero-Day]]
 - [[Akamai Reports Another DoS in Log4j2 (CVE-2021-45105): What You Need to Know]]
 - [[Coming Together to Tackle Phishing — For the Greater Good]]
